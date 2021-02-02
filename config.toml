@@ -1,0 +1,25 @@
+baseURL = "http://2021.computational-humanities-research/"
+languageCode = "en-us"
+title = "Computational Humanities Research 2021"
+theme = "chr"
+publishDir = "docs"
+
+[params]
+  customCSS = ["css/custom.css"]
+
+[menu]
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = -210
+
+  [[menu.main]]
+    identifier = "community"
+    name = "Community"
+    url = "/community/"
+    weight = -1000
+
+[markup.goldmark.renderer]
+unsafe = true
