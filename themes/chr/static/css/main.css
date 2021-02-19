@@ -1,6 +1,28 @@
 @import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.206/distr/fira_code.css);
 @import url(https://rsms.me/inter/inter.css);
 
+:root {
+    /* cyberpunk */
+    /* --color1: #fc00ff; */
+    /* --color2: #00dbde; */
+
+    /* Virgin America */
+    /* --color1: #dc2430; */
+    /* --color2: #7b4397; */
+
+    /* Twitch */
+    --color1: #6441A5;
+    --color2: #2a0845;
+
+    /* Predawn */
+    /* --color1: #FFA17F; */
+    /* --color2: #00223E; */
+
+    /* Miaka */
+    /* --color2: #fc354c; */
+    /* --color1: #0abfbc; */
+}
+
 html {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
@@ -48,12 +70,12 @@ main {
 a {
     transition: color .3s ease;
     text-decoration: none;
-    color: #4c83ff;
+    color: var(--color2);
 }
 
 .title-a {
     text-decoration: none;
-    background-image: linear-gradient(transparent, transparent),linear-gradient(transparent, transparent),linear-gradient(to right, #2afadf,  #4c83ff);
+    background-image: linear-gradient(transparent, transparent),linear-gradient(transparent, transparent),linear-gradient(to right, var(--color1),  var(--color2));
     background-repeat: no-repeat;
     background-position: 120%, 122%, 0 100%;
     background-size: 100% 1px;
@@ -61,7 +83,7 @@ a {
 }
 
 a:hover, circle:hover {
-    color: #2afadf;
+    color: var(--color1);
 }
 
 nav ul a {
@@ -73,11 +95,11 @@ nav ul a:hover {
 }
 
 ::-moz-selection {
-    color: #4c83ff
+    color: var(--color2)
 }
 
 ::selection {
-    color: #4c83ff;
+    color: var(--color2);
 }
 
 h1, h2, h3, h4, h5, nav, footer {
@@ -88,8 +110,8 @@ h1, h2, h3, h4, h5, nav, footer {
 
 .page-border {
     padding: .8rem;
-    background-color: #2afadf;
-    background-image: linear-gradient(135deg, #2afadf 10%, #4c83ff 100%);
+    background-color: var(--color1);
+    background-image: linear-gradient(135deg, var(--color1) 10%, var(--color2) 100%);
 }
 
 nav .brand-logo {
@@ -109,8 +131,8 @@ img {
     /* flex: 30%; */
     align-self: center;
     width: 30%;
-    background-color: #2afadf;
-    background-image: linear-gradient(135deg, #2afadf 10%, #4c83ff 100%);
+    background-color: var(--color1);
+    background-image: linear-gradient(135deg, var(--color1) 10%, var(--color2) 100%);
 }
 
 .speaker {
@@ -127,14 +149,14 @@ img {
 }
 
 .brand-logo {
-    background: linear-gradient(135deg, #2afadf 10%, #4c83ff 100%);
+    background: linear-gradient(135deg, var(--color1) 10%, var(--color2) 100%);
     font-family: "Fira Code", Monaco, Menlo, Consolas, monospace;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
 .filled-in {
-    background: linear-gradient(135deg, #2afadf 10%, #4c83ff 100%);
+    background: linear-gradient(135deg, var(--color1) 10%, var(--color2) 100%);
 }
 
 @media screen and (min-width:40em) {
@@ -243,16 +265,16 @@ h4 {
 }
 /* label focus color */
 .input-field input[type=text]:focus + label {
-    color: #4c83ff !important;
+    color: var(--color2) !important;
 }
 /* label underline focus color */
 .input-field input[type=text]:focus {
-    border-bottom: 1px solid #4c83ff !important;
-    box-shadow: 0 1px 0 0 #4c83ff !important;
+    border-bottom: 1px solid var(--color2) !important;
+    box-shadow: 0 1px 0 0 var(--color2) !important;
 }
 /* icon prefix focus color */
 .input-field .prefix.active {
-    color: #4c83ff;
+    color: var(--color2);
 }
 
 .icons {
@@ -277,7 +299,7 @@ h4 {
   border-image: 
     linear-gradient(
       to bottom, 
-      #2afadf 10%, #4c83ff 100%
+      var(--color1) 10%, var(--color2) 100%
     ) 1 100%;
     border-left-style: solid;
 }
@@ -302,6 +324,6 @@ h4 {
 .circle {
     border-radius: 10%;
     background-color: #fff !important;
-    color: #4c83ff;
+    color: var(--color2);
     font-size: 30px !important;
 }
