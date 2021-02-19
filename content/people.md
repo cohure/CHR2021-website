@@ -1,5 +1,5 @@
 ---
-title: "People"
+title: "Organizers and Programme Committee"
 date: 2021-02-19T15:59:28+01:00
 ---
 
