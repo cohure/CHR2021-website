@@ -6,6 +6,7 @@ publishDir = "docs"
 
 [params]
   customCSS = ["css/custom.css"]
+  short = "CHR2021"
 
 [menu]
 
