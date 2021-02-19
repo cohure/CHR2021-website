@@ -12,6 +12,36 @@
     
     
     <item>
+      <title>Past Events</title>
+      <link>http://2021.computational-humanities-research/archive/</link>
+      <pubDate>Fri, 19 Feb 2021 16:05:25 +0100</pubDate>
+      
+      <guid>http://2021.computational-humanities-research/archive/</guid>
+      <description>CHR2020 CHR2020 was a three-day workshop held on November 18 to 20, 2020. The program committee and organizers accepted 29 papers, which have been published with CEUR-WS: http://ceur-ws.org/Vol-2723/ See https://2020.computational-humanities-research.org/ for more information about CHR2020.</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://2021.computational-humanities-research/people/</link>
+      <pubDate>Fri, 19 Feb 2021 15:59:28 +0100</pubDate>
+      
+      <guid>http://2021.computational-humanities-research/people/</guid>
+      <description>Organizers  Tara Andrews Manuel Burghardt Giovanni Colavizza Maud Ehrmann Leah Henrickson Folgert Karsdorp Mike Kestermont Enrique Manjavacas Barbara McGillivray George Mikros Adina Nerghes Kristoffer Nielbo Michael Piotrowski Joris van Zundert Melvin Wevers  Programme Committee To be announced</description>
+    </item>
+    
+    <item>
+      <title>Important Dates</title>
+      <link>http://2021.computational-humanities-research/dates/</link>
+      <pubDate>Fri, 19 Feb 2021 12:53:21 +0100</pubDate>
+      
+      <guid>http://2021.computational-humanities-research/dates/</guid>
+      <description>Submission deadline: July 2, 2021
+Notification to authors: September 3, 2021 
+Camera-ready: September 17, 2021 
+Conference: November 17 - November 19, 2021</description>
+    </item>
+    
+    <item>
       <title>Accepted Papers</title>
       <link>http://2021.computational-humanities-research/papers/</link>
       <pubDate>Sat, 01 Aug 2020 08:55:52 +0200</pubDate>
@@ -30,21 +60,22 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>http://2021.computational-humanities-research/contact/</link>
-      <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
-      
-      <guid>http://2021.computational-humanities-research/contact/</guid>
-      <description>For questions, ideas, or support, contact the organizers or drop us a line on the forum.</description>
-    </item>
-    
-    <item>
       <title>Join the Community</title>
       <link>http://2021.computational-humanities-research/community/</link>
       <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
       
       <guid>http://2021.computational-humanities-research/community/</guid>
       <description>We cordially invite you and other interested parties to join the Computational Humanities Research forum! The forum serves as an asynchronous platform to discuss all ideas and questions related to computational humanities research. These can be in-depth discussions about fundamental topics and questions of the discipline, or very practical ones, for example about how best to tackle a certain technical (coding) problem. And everything in between. Come join!</description>
+    </item>
+    
+    <item>
+      <title>Join the Community</title>
+      <link>http://2021.computational-humanities-research/contact/</link>
+      <pubDate>Sun, 15 Dec 2019 11:12:28 +0100</pubDate>
+      
+      <guid>http://2021.computational-humanities-research/contact/</guid>
+      <description>Community Please join our Computational Humanities Research forum! The forum serves as an asynchronous platform to discuss all ideas and questions related to computational humanities research. These can be in-depth discussions about fundamental topics and questions of the discipline, or very practical ones, for example about how best to tackle a certain technical (coding) problem. And everything in between. Come join!
+Contact For questions, ideas, or support, contact the organizers or drop us a line on the forum.</description>
     </item>
     
     <item>

@@ -133,6 +133,10 @@ img {
     -webkit-text-fill-color: transparent;
 }
 
+.filled-in {
+    background: linear-gradient(135deg, #2afadf 10%, #4c83ff 100%);
+}
+
 @media screen and (min-width:40em) {
     html {
         font-size: 15px;
