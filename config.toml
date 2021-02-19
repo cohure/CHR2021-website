@@ -13,14 +13,8 @@ publishDir = "docs"
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "/contact/"
+    url = "/contact"
     weight = -210
-
-  [[menu.main]]
-    identifier = "community"
-    name = "Community"
-    url = "/community/"
-    weight = -1000
 
   [[menu.main]]
     identifier = "cfp"
@@ -29,10 +23,22 @@ publishDir = "docs"
     weight = -2000
 
   [[menu.main]]
-    identifier = "past"
-    name = "Past events"
-    url = "previous"
+    identifier = "dates"
+    name = "Dates"
+    url = "/dates"
     weight = -1500
+
+  [[menu.main]]
+    identifier = "people"
+    name = "People"
+    url = "/people"
+    weight = -1000
+
+  [[menu.main]]
+    identifier = "archive"
+    name = "Archive"
+    url = "/archive"
+    weight = -500
 
 [markup.goldmark.renderer]
 unsafe = true
