@@ -8,7 +8,6 @@ date: 2021-02-19T15:59:28+01:00
 - Manuel Burghardt
 - Giovanni Colavizza
 - Maud Ehrmann
-- Leah Henrickson
 - Folgert Karsdorp
 - Mike Kestermont
 - Enrique Manjavacas
@@ -21,6 +20,77 @@ date: 2021-02-19T15:59:28+01:00
 - Melvin Wevers
 
 ### Programme Committee
-**To be announced**
+- Alberto Acerbi, University of Bristol
+- Maristella Agosti, University of Padua
+- Tara Andrews, University of Vienna  
+- Adrien Barbaresi, BBAW
+- Andreas Baumann, University of Vienna
+- Kaspar Beelen, The Alan Turing Institute
+- Elli Bleeker, KNAW
+- Federica Bologna, Università di Bologna
+- Emanuela Boros, Université de La Rochelle
+- Estelle Bunout, University of Luxembourg
+- Manuel Burghardt, Computational Humanities, University of Leipzig  
+- Frédéric Clavert, C2DH / Université du Luxembourg
+- Giovanni Colavizza, University of Amsterdam
+- Mariona Coll Ardanuy, The Alan Turing Institute
+- Thierry Declerck, DFKI GmbH
+- Antoine Doucet, University of La Rochelle
+- Marten During, C2DH / Université du Luxembourg
+- Maud Ehrmann, École Polytechnique Fédérale de Lausanne
+- Pieter Francois, University of Oxford
+- Heather Froehlich, The Pennsylvania State University
+- Leah Henrickson, University of Leeds
+- J. Berenike Herrmann, University of Basel
+- Tobias Hodel, Digital Humanities/Walter Benjamin Kolleg/Universität Bern
+- Laura Hollink, Vrije Universiteit Amsterdam
+- Fotis Jannidis, Julius-Maximilans-Universität Würzburg
+- Béatrice Joyeux-Prunel, Université de Genève
+- Anne Kandler, Max Planck Institute for Evolutionary Anthropology
+- Folgert Karsdorp, Meertens Institute
+- Mike Kestemont, CLiPS
+- Marijn Koolen, Royal Netherlands Academy of Arts and Sciences - Humanities Cluster
+- Ross Kristensen-McLachlan, Centre for Humanities Computing, Aarhus University
+- Cynthia Liem, Delft University of Technology
+- Cerstin Mahlow, ZHAW Zurich University of Applied Sciences
+- Enrique Manjavacas, Universiteit Antwerpen
+- Barbara Mcgillivray, Alan Turing Institute/University of Cambridge
+- George Mikros, University of Athens
+- Jean-Philippe Moreux, Bibliothèque nationale de France
+- Fabian Moss, École Polytechnique Fédérale de Lausanne
+- Coline Métrailler, University of Lausanne  
+- Federico Nanni, The Alan Turing Institute
+- Clemens Neudecker, Berlin State Library
+- Kristoffer Nielbo, Aarhus University, Center for Humanities Computing Aarhus
+- Damien Nouvel, INaLCO
+- Pedro Javier Ortiz Suárez, Inria / Sorbonne Université
+- Marco Passarotti, Catholic University of the Sacred Heart
+- Michael Piotrowski, University of Lausanne  
+- Andrew Piper, McGill University
+- Thierry Poibeau, LaTTiCe-CNRS
+- Nils Reiter, Institute of Natural Language Processing, Stuttgart University
+- Allen Riddell, Indiana University Bloomington
+- Ramona Roller, ETH Zurich
+- Matteo Romanello,  University of Lausanne  
+- Iza Romanowska, Barcelona Supercomputing Center
+- Laurent Romary, INRIA & HUB-ISDL
+- Yann Ryan, Queen Mary, University of London
+- Christof Schoech, University of Würzburg
+- Stefen Schweter, Bayerische Staatsbibliothek München, Digital Library/Munich Digitization Center
+- Roel Smeets, Radboud University
+- Oleg Sobchuk, Max Planck Institute for the Science of Human History
+- Elena Spadini,  University of Lausanne  
+- Rachele Sprugnoli, Università Cattolica del Sacro Cuore
+- Lauren Tilton, University of Richmond
+- Sara Tonelli, Fondazione Bruno Kessler
+- Arianna Traviglia, Italian Institute of Technology
+- Inna Uglanova, Technical University of Darmstadt
+- Ted Underwood, University of Illinois at Urbana-Champaign
+- Joris Van Zundert, Huygens ING - Royal Netherlands Academy of Arts and Sciences (KNAW)  
+- Melvin Wevers, University of Amsterdam
+- Bruna Wundervald, Maynooth University Hamilton Institute
+- Eva Zangerle, University of Innsbruck
+- Andreas van Cranenburgh, University of Groningen
+- Marieke van Erp, KNAW Humanities Cluster
 
 
