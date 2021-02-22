@@ -16,8 +16,8 @@ date: 2021-02-19T15:59:28+01:00
 - Adina Nerghes, Wageningen University & Research,
 - Kristoffer Nielbo, University of Aarhus
 - Michael Piotrowski, University of Lausanne  
-- Joris van Zundert, Huygens ING - KNAW 
 - Melvin Wevers, University of Amsterdam
+- Joris van Zundert, Huygens ING - KNAW 
 
 ### Programme Committee
 - Alberto Acerbi, University of Bristol
@@ -34,10 +34,12 @@ date: 2021-02-19T15:59:28+01:00
 - Frédéric Clavert, C2DH / Université du Luxembourg
 - Giovanni Colavizza, University of Amsterdam
 - Mariona Coll Ardanuy, The Alan Turing Institute
+- Andreas van Cranenburgh, University of Groningen
 - Thierry Declerck, DFKI GmbH
 - Antoine Doucet, University of La Rochelle
 - Marten During, C2DH / Université du Luxembourg
 - Maud Ehrmann, École Polytechnique Fédérale de Lausanne
+- Marieke van Erp, KNAW Humanities Cluster
 - Pieter Francois, University of Oxford
 - Heather Froehlich, The Pennsylvania State University
 - Leah Henrickson, University of Leeds
@@ -86,11 +88,11 @@ date: 2021-02-19T15:59:28+01:00
 - Arianna Traviglia, Italian Institute of Technology
 - Inna Uglanova, Technical University of Darmstadt
 - Ted Underwood, University of Illinois at Urbana-Champaign
-- Joris Van Zundert, Huygens ING - Royal Netherlands Academy of Arts and Sciences (KNAW)  
 - Melvin Wevers, University of Amsterdam
 - Bruna Wundervald, Maynooth University Hamilton Institute
 - Eva Zangerle, University of Innsbruck
-- Andreas van Cranenburgh, University of Groningen
-- Marieke van Erp, KNAW Humanities Cluster
+- Joris Van Zundert, Huygens ING - Royal Netherlands Academy of Arts and Sciences (KNAW)  
+
+
 
 
