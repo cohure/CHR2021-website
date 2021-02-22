@@ -4,20 +4,20 @@ date: 2021-02-19T15:59:28+01:00
 ---
 
 ### Organizers
-- Tara Andrews
-- Manuel Burghardt
-- Giovanni Colavizza
-- Maud Ehrmann
-- Folgert Karsdorp
-- Mike Kestermont
-- Enrique Manjavacas
-- Barbara McGillivray
-- George Mikros
-- Adina Nerghes
-- Kristoffer Nielbo
-- Michael Piotrowski
-- Joris van Zundert
-- Melvin Wevers
+- Tara Andrews, University of Vienna  
+- Manuel Burghardt, Computational Humanities, University of Leipzig  
+- Giovanni Colavizza, University of Amsterdam
+- Maud Ehrmann, École Polytechnique Fédérale de Lausanne
+- Folgert Karsdorp, Meertens Institute
+- Mike Kestermont, CLiPS
+- Enrique Manjavacas, Universiteit Antwerpen
+- Barbara McGillivray, Alan Turing Institute/University of Cambridge
+- George Mikros, University of Athens
+- Adina Nerghes, Wageningen University & Research,
+- Kristoffer Nielbo, University of Aarhus
+- Michael Piotrowski, University of Lausanne  
+- Joris van Zundert, Huygens ING - KNAW 
+- Melvin Wevers, University of Amsterdam
 
 ### Programme Committee
 - Alberto Acerbi, University of Bristol
