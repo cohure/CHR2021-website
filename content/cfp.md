@@ -49,12 +49,13 @@ To gain further insight into paper topics, please also refer to [CHR2020
 proceedings](http://ceur-ws.org/Vol-2723/). 
 
 ### Submission types
-1. Long Papers: up to 6000 words (ca. 12 pages, references, abstract and
+
+**Long Papers**: up to 6000 words (ca. 12 pages, references, abstract and
    tables/illustrations excluded), long papers report on completed, original and
    unpublished results. Brevity of argument is preferred. We welcome the use of appendices
    or other supplementary information.
 
-2. Short Papers: up to 3000 words (ca. 6 pages references, abstract and
+**Short Papers**: up to 3000 words (ca. 6 pages references, abstract and
    tables/illustrations excluded), small papers report on focussed contributions, and may
    present work in progress, negative results, and opinion pieces.
 
@@ -62,16 +63,18 @@ Overleaf has a word count functionality, or you can use the
 [TexCount](https://app.uio.no/ifi/texcount/) application.
 
 ### Submission instructions and review process
-1. Submissions should be written in English and must be formatted according to the CHR
-   latex template (see instructions on the forum to get you started here).
-   
-2. Submissions are to be submitted anonymously. All papers will be refereed through a
-   double-blind peer review process by at least three reviewers with final acceptance
-   decisions made by the conference organizers.
-3. Paper should be submitted as PDF documents via the Easychair conference management
-   system: https://easychair.org/conferences/?conf=chr2021. 
-4. At least one author of each accepted paper must register to the conference and present
-   the paper.
+Submissions should be written in English and must be formatted according to the [CHR latex template](https://github.com/cohure/CHR-2021/raw/main/chr2021_latex_template.zip) 
+(see instructions on the forum to get you started [here](https://discourse.computational-humanities-research.org/t/chr-latex-instructions/230)).
+
+Submissions are to be submitted anonymously. All papers will be refereed through a 
+double-blind peer review process by at least three reviewers with final acceptance
+decisions made by the conference organizers.
+
+Paper should be submitted as PDF documents via the Easychair conference management
+system: https://easychair.org/conferences/?conf=chr2021. 
+
+At least one author of each accepted paper must register to the conference and present
+the paper.
 
 Accepted papers will be submitted for publication to published online via the
 [CEUR-WS](http://ceur-ws.org/) Proceedings publication service.
