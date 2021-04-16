@@ -28,7 +28,6 @@ precisely, the conference aims at
    of the reviewing process for interdisciplinary studies that rely on computational
    approaches to answer questions relevant to the humanities. 
 
-
 ### Topics of interest
 We invite original research papers from a wide range of topics, including -- but not
 limited to -- the following:
@@ -47,6 +46,22 @@ limited to -- the following:
 
 To gain further insight into paper topics, please also refer to [CHR2020
 proceedings](http://ceur-ws.org/Vol-2723/). 
+
+
+### Dates
+
+<input class="filled-in" type="checkbox"><span>Submission deadline:
+July 2, 2021</span></li> 
+
+<input class="filled-in" type="checkbox"><span>Notification to authors: September 3, 2021
+</span></li> 
+
+<input class="filled-in" type="checkbox"><span>Camera-ready: September
+17, 2021 </span></li>
+
+<input class="filled-in" type="checkbox"><span>Conference: November 17 - November 19, 2021
+</span></li> 
+
 
 ### Submission types
 
