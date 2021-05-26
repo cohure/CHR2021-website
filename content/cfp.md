@@ -28,6 +28,27 @@ precisely, the conference aims at
    of the reviewing process for interdisciplinary studies that rely on computational
    approaches to answer questions relevant to the humanities. 
 
+### Keynote Speakers
+
+<div class="keynotes">
+  <div class="imgitem">
+    <img class="repsonsive-img" src="/images/Iza_AIAS.jpg"/>
+    <span class="caption"><span class="speaker">Iza Romanowska</span></br> Fellow at the Aarhus Institute of Advances Studies - AIAS, Denmark</span> 
+  </div>
+
+  <div class="imgitem">
+    <img class="repsonsive-img" src="/images/sara_tonelli.jpg"/>
+    <span class="caption"><span class="speaker">Sara Tonelli</span></br> Digital Humanities Research Unit, Fondazione Bruno Kessler, Trento, Italy</span> 
+  </div>
+  
+  <div class="imgitem">
+    <img class="repsonsive-img" src="/images/jacob_eisenstein.jpg"/>
+    <span class="caption"><span class="speaker">Jacob Eisenstein</span></br>Georgia
+    Institute of Technology, Georgia, U.S.A.</span> 
+  </div>  
+</div>
+
+
 ### Topics of interest
 We invite original research papers from a wide range of topics, including -- but not
 limited to -- the following:
