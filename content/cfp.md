@@ -30,23 +30,54 @@ precisely, the conference aims at
 
 ### Keynote Speakers
 
-<div class="keynotes">
-  <div class="imgitem">
-    <img class="repsonsive-img" src="/images/Iza_AIAS.jpg"/>
-    <span class="caption"><span class="speaker">Iza Romanowska</span></br> Fellow at the Aarhus Institute of Advances Studies - AIAS, Denmark</span> 
+  <div class="row">
+    <div class="col s8 m4 l4">
+      <div class="card medium">
+        <div class="card-image">
+          <img src="/images/Iza_AIAS.jpg">
+          <span class="card-title">Iza Romanowska</span>
+        </div>
+        <div class="card-content">
+          <p>Fellow at the Aarhus
+        Institute of Advanced Studies - AIAS, Denmark</p>
+        </div>
+        <div class="card-action">
+          <a href="https://aias.au.dk/aias-fellows/iza-romanowska/">Website</a>
+        </div>
+      </div>
+    </div>
+    <div class="col s8 m4 l4">
+      <div class="card medium">
+        <div class="card-image">
+          <img src="/images/sara_tonelli.jpg">
+          <span class="card-title">Sara Tonelli</span>
+        </div>
+        <div class="card-content">
+          <p>Digital Humanities Research Unit, Fondazione Bruno Kessler, Trento, Italy</p>
+        </div>
+        <div class="card-action">
+          <a href="https://dh.fbk.eu/author/sara/">Website</a>
+        </div>        
+      </div>
+    </div>
+    <div class="col s8 m4 l4">
+      <div class="card medium">
+        <div class="card-image">
+          <img src="/images/jacob_eisenstein.jpg">
+          <span class="card-title">Jacob Eisenstein</span>
+        </div>
+        <div class="card-content">
+          <p>Georgia Institute of Technology, Georgia, U.S.A.</p>
+        </div>
+        <div class="card-action">
+          <a href="https://jacobeisenstein.github.io/">Website</a>
+        </div>
+     </div>
+    </div>
+    
   </div>
 
-  <div class="imgitem">
-    <img class="repsonsive-img" src="/images/sara_tonelli.jpg"/>
-    <span class="caption"><span class="speaker">Sara Tonelli</span></br> Digital Humanities Research Unit, Fondazione Bruno Kessler, Trento, Italy</span> 
-  </div>
-  
-  <div class="imgitem">
-    <img class="repsonsive-img" src="/images/jacob_eisenstein.jpg"/>
-    <span class="caption"><span class="speaker">Jacob Eisenstein</span></br>Georgia
-    Institute of Technology, Georgia, U.S.A.</span> 
-  </div>  
-</div>
+
 
 
 ### Topics of interest
