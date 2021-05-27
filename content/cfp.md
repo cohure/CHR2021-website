@@ -34,6 +34,20 @@ precisely, the conference aims at
     <div class="col s8 m4 l4">
       <div class="card medium">
         <div class="card-image">
+          <img src="/images/jacob_eisenstein.jpg">
+          <span class="card-title">Jacob Eisenstein</span>
+        </div>
+        <div class="card-content">
+          <p>Georgia Institute of Technology, Georgia, U.S.A.</p>
+        </div>
+        <div class="card-action">
+          <a href="https://jacobeisenstein.github.io/">Website</a>
+        </div>
+     </div>
+    </div>
+    <div class="col s8 m4 l4">
+      <div class="card medium">
+        <div class="card-image">
           <img src="/images/Iza_AIAS.jpg">
           <span class="card-title">Iza Romanowska</span>
         </div>
@@ -57,24 +71,9 @@ precisely, the conference aims at
         </div>
         <div class="card-action">
           <a href="https://dh.fbk.eu/author/sara/">Website</a>
-        </div>        
+        </div> 
       </div>
-    </div>
-    <div class="col s8 m4 l4">
-      <div class="card medium">
-        <div class="card-image">
-          <img src="/images/jacob_eisenstein.jpg">
-          <span class="card-title">Jacob Eisenstein</span>
-        </div>
-        <div class="card-content">
-          <p>Georgia Institute of Technology, Georgia, U.S.A.</p>
-        </div>
-        <div class="card-action">
-          <a href="https://jacobeisenstein.github.io/">Website</a>
-        </div>
-     </div>
-    </div>
-    
+    </div> 
   </div>
 
 
