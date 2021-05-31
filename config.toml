@@ -35,6 +35,12 @@ publishDir = "docs"
     weight = -1000
 
   [[menu.main]]
+    identifier = "conference"
+    name = "Conference"
+    url = "/conference"
+    weight = -750
+
+  [[menu.main]]
     identifier = "archive"
     name = "Archive"
     url = "/archive"
