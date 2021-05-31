@@ -1,9 +1,7 @@
 ---
-title: "Second Conference on Computational Humanities Research (CHR2021)"
+title: "Call for Papers"
 date: 2019-12-15T11:11:58+01:00
 ---
-
-### Description
 
 In the arts and humanities, the use of computational, statistical, and mathematical
 approaches has considerably increased in recent years. This research is characterized by
@@ -13,7 +11,7 @@ methods for processing and analyzing data, as well as theoretical reflections on
 approaches. Despite the undeniable growth of this research area, many scholars still
 struggle to find suitable research-oriented venues to present and publish computational
 work that does not lose sight of traditional modes of inquiry in the arts and humanities.
-This is precisely the scholarly niche that the CHR conference aims to fill. More
+This is the scholarly niche that the CHR conference aims to fill. More
 precisely, the conference aims at
 
 1. Building a community of scholars working on humanities research questions relying on a
@@ -28,58 +26,10 @@ precisely, the conference aims at
    of the reviewing process for interdisciplinary studies that rely on computational
    approaches to answer questions relevant to the humanities. 
 
-### Keynote Speakers
-
-  <div class="row">
-    <div class="col s8 m4 l4">
-      <div class="card medium">
-        <div class="card-image">
-          <img src="/images/jacob_eisenstein.jpg">
-          <span class="card-title">Jacob Eisenstein</span>
-        </div>
-        <div class="card-content">
-          <p>Georgia Institute of Technology, Georgia, U.S.A.</p>
-        </div>
-        <div class="card-action">
-          <a href="https://jacobeisenstein.github.io/">Website</a>
-        </div>
-     </div>
-    </div>
-    <div class="col s8 m4 l4">
-      <div class="card medium">
-        <div class="card-image">
-          <img src="/images/Iza_AIAS.jpg">
-          <span class="card-title">Iza Romanowska</span>
-        </div>
-        <div class="card-content">
-          <p>Fellow at the Aarhus
-        Institute of Advanced Studies - AIAS, Denmark</p>
-        </div>
-        <div class="card-action">
-          <a href="https://aias.au.dk/aias-fellows/iza-romanowska/">Website</a>
-        </div>
-      </div>
-    </div>
-    <div class="col s8 m4 l4">
-      <div class="card medium">
-        <div class="card-image">
-          <img src="/images/sara_tonelli.jpg">
-          <span class="card-title">Sara Tonelli</span>
-        </div>
-        <div class="card-content">
-          <p>Digital Humanities Research Unit, Fondazione Bruno Kessler, Trento, Italy</p>
-        </div>
-        <div class="card-action">
-          <a href="https://dh.fbk.eu/author/sara/">Website</a>
-        </div> 
-      </div>
-    </div> 
-  </div>
-
-
 
 
 ### Topics of interest
+
 We invite original research papers from a wide range of topics, including -- but not
 limited to -- the following:
 
@@ -99,7 +49,9 @@ To gain further insight into paper topics, please also refer to [CHR2020
 proceedings](http://ceur-ws.org/Vol-2723/). 
 
 
-### Dates
+
+
+### Important dates
 
 <input class="filled-in" type="checkbox"><span>Submission deadline:
 July 2, 2021</span></li> 
@@ -112,6 +64,8 @@ July 2, 2021</span></li>
 
 <input class="filled-in" type="checkbox"><span>Conference: November 17 - November 19, 2021
 </span></li> 
+
+
 
 
 ### Submission types
@@ -127,6 +81,8 @@ July 2, 2021</span></li>
 
 Overleaf has a word count functionality, or you can use the
 [TexCount](https://app.uio.no/ifi/texcount/) application.
+
+
 
 ### Submission instructions and review process
 Submissions should be written in English and must be formatted according to the [CHR latex template](https://github.com/cohure/CHR-2021/raw/main/chr2021_latex_template.zip) 
@@ -148,8 +104,5 @@ Accepted papers will be submitted for publication to published online via the
 Authors are encouraged to openly share code and data. If the authors have created an
 openly available dataset associated with the research presented in the CHR2021 paper, in
 addition to the conference paper, they are welcome to submit a data paper describing their
-dataset in the [Special Collection on Computational Humanities
-Data](https://discourse.computational-humanities-research.org/t/cfp-computational-humanities-research-data-journal-of-open-humanities-data/706)
-of the [Journal of Open
-Humanities Data](https://openhumanitiesdata.metajnl.com/), which accepts submissions on a
+dataset in the [Special Collection on Computational Humanities Data](https://discourse.computational-humanities-research.org/t/cfp-computational-humanities-research-data-journal-of-open-humanities-data/706) of the [Journal of OpenHumanities Data](https://openhumanitiesdata.metajnl.com/), which accepts submissions on a
 rolling basis. 
