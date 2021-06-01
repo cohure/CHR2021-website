@@ -24,7 +24,7 @@ We are very honoured and pleased the following speakers have accepted to give ke
           <span class="card-title">Jacob Eisenstein</span>
         </div>
         <div class="card-content">
-          <p>Georgia Institute of Technology, Georgia, U.S.A.</p>
+          <p>Google AI</p>
         </div>
         <div class="card-action">
           <a href="https://jacobeisenstein.github.io/">Website</a>
