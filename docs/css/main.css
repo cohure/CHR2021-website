@@ -37,8 +37,15 @@ html {
     text-rendering: optimizeLegibility;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h4, h5, subtitle {
     font-family: "Fira Code", Monaco, Menlo, Consolas, monospace;
+}
+
+subtitle {
+    font-weight: 320%;
+    font-size: 150%;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 body {
