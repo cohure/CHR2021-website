@@ -6,11 +6,7 @@
     <description>Recent content in Second Conference on Computational Humanities Research on Computational Humanities Research 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Dec 2019 11:12:14 +0100</lastBuildDate>
-    
-	<atom:link href="http://2021.computational-humanities-research/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 15 Dec 2019 11:12:14 +0100</lastBuildDate><atom:link href="http://2021.computational-humanities-research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Past Events</title>
       <link>http://2021.computational-humanities-research/archive/</link>
@@ -35,7 +31,7 @@
       <pubDate>Fri, 19 Feb 2021 12:53:21 +0100</pubDate>
       
       <guid>http://2021.computational-humanities-research/dates/</guid>
-      <description>Submission deadline: July 2, 2021
+      <description>NEW! Submission deadline: July 9, 2021
 Notification to authors: September 3, 2021 
 Camera-ready: September 17, 2021 
 Conference: November 17 - November 19, 2021</description>
