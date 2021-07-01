@@ -53,8 +53,7 @@ proceedings](http://ceur-ws.org/Vol-2723/).
 
 ### Important dates
 
-<input class="filled-in" type="checkbox"><span><b>NEW! </b>Submission deadline:
-July <b>9</b>, 2021</span></li> 
+<input class="filled-in" type="checkbox"><span><b>NEW! </b>Submission deadline: July <b>9</b>, 2021 (Time zone: [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe), meaning July 10, 2021 12:00 CEST)</span> </li> 
 
 <input class="filled-in" type="checkbox"><span>Notification to authors: September 3, 2021
 </span></li> 
@@ -90,7 +89,7 @@ Submissions should be written in English and must be formatted according to the 
 
 Submissions are to be submitted anonymously. All papers will be refereed through a 
 double-blind peer review process by at least three reviewers with final acceptance
-decisions made by the conference organizers.
+decisions made by the conference organizers. The anonymity period runs until the notification of acceptance (no preprint publication before this date).
 
 Paper should be submitted as PDF documents via the Easychair conference management
 system: https://easychair.org/conferences/?conf=chr2021. 

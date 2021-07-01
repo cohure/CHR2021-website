@@ -62,4 +62,3 @@ We are very honoured and pleased the following speakers have accepted to give ke
       </div>
     </div> 
   </div>
-
