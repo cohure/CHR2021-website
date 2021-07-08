@@ -11,3 +11,4 @@ serves as an asynchronous platform to discuss all ideas and questions related to
 computational humanities research. These can be in-depth discussions about fundamental
 topics and questions of the discipline, or very practical ones, for example about how best
 to tackle a certain technical (coding) problem. And everything in between. Come join!
+

@@ -53,7 +53,7 @@ proceedings](http://ceur-ws.org/Vol-2723/).
 
 ### Important dates
 
-<input class="filled-in" type="checkbox"><span><b>NEW! </b>Submission deadline: July <b>9</b>, 2021 (Time zone: [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe), meaning July 10, 2021 12:00 CEST)</span> </li> 
+<input class="filled-in" type="checkbox"><span><b>NEW! </b>Submission deadline: July <b>9</b>, 2021 (**Time zone: [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe), meaning July 10, 2021 12:00 CEST**)</span> </li> 
 
 <input class="filled-in" type="checkbox"><span>Notification to authors: September 3, 2021
 </span></li> 
@@ -122,3 +122,10 @@ Any information which might help identify authors should be anonymized. To this 
 ### Anonymity period
 
 The anonymity period runs until the notification of acceptance (3.09). Preprints can be published after this date.
+
+
+
+### Questions?
+
+Contact the organizers: [info@computational-humanities-research.org](mailto:info@computational-humanities-research.org) or drop us a line on the [discourse forum](https://discourse.computational-humanities-research.org).
+
