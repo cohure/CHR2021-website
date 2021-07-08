@@ -89,7 +89,7 @@ Submissions should be written in English and must be formatted according to the 
 
 Submissions are to be submitted anonymously. All papers will be refereed through a 
 double-blind peer review process by at least three reviewers with final acceptance
-decisions made by the conference organizers. The anonymity period runs until the notification of acceptance (no preprint publication before this date).
+decisions made by the conference organizers. 
 
 Paper should be submitted as PDF documents via the Easychair conference management
 system: https://easychair.org/conferences/?conf=chr2021. 
@@ -105,3 +105,20 @@ openly available dataset associated with the research presented in the CHR2021 p
 addition to the conference paper, they are welcome to submit a data paper describing their
 dataset in the [Special Collection on Computational Humanities Data](https://discourse.computational-humanities-research.org/t/cfp-computational-humanities-research-data-journal-of-open-humanities-data/706) of the [Journal of OpenHumanities Data](https://openhumanitiesdata.metajnl.com/), which accepts submissions on a
 rolling basis. 
+
+
+
+### Instructions for paper anonymisation 
+
+Any information which might help identify authors should be anonymized. To this end, please:
+
+1. do not include authors' names and affiliations;
+2. use placeholders for code and data repositories, e.g. https://anonymous.4open.science/, https://zenodo.org/record/xxxxx;
+3. do not mention self-references in a way that can reveal the author's identity, e.g. do not use "We previously demonstrated (Smith, 2002)" but "Smith (2022) previously demonstrated";
+4. leave acknowledgements blank.
+
+
+
+### Anonymity period
+
+The anonymity period runs until the notification of acceptance (3.09). Preprints can be published after this date.
