@@ -3,7 +3,7 @@ title: "Second Conference on Computational Humanities Research"
 date: 2019-12-15T11:12:14+01:00
 ---
 
-<h3 class="center"><b><span style="text-align:center;">NEW - Submission deadline postponed to July 9, 2021</span></b></h3><br>
+<h3 class="center"><b><span style="text-align:center;">November 17-19 2021, Online Conference - Program to be announced end of September.</span></b></h3><br>
 
 The Computational Humanities Research (CHR) community is an international and
 interdisciplinary community that supports researchers with an interest in computational

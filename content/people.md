@@ -42,6 +42,7 @@ date: 2021-02-19T15:59:28+01:00
 - Marieke van Erp, KNAW Humanities Cluster
 - Pieter Francois, University of Oxford
 - Heather Froehlich, The Pennsylvania State University
+- Simon Hengchen, University of Gothenburg
 - Leah Henrickson, University of Leeds
 - J. Berenike Herrmann, University of Basel
 - Tobias Hodel, Digital Humanities/Walter Benjamin Kolleg/Universität Bern
@@ -92,7 +93,6 @@ date: 2021-02-19T15:59:28+01:00
 - Bruna Wundervald, Maynooth University Hamilton Institute
 - Eva Zangerle, University of Innsbruck
 - Joris Van Zundert, Huygens ING - Royal Netherlands Academy of Arts and Sciences (KNAW)  
-
 
 
 
