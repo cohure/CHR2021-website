@@ -97,6 +97,10 @@ a:hover, circle:hover {
     color: var(--color1);
 }
 
+blockquote {
+    border-left: 5px solid var(--color1);
+}
+
 nav ul a {
     transition: color .3s ease;
 }
