@@ -53,9 +53,9 @@ proceedings](http://ceur-ws.org/Vol-2723/).
 
 ### Important dates
 
-<input class="filled-in" type="checkbox"><span><b>NEW! </b>Submission deadline: July <b>9</b>, 2021 (**Time zone: [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe), meaning July 10, 2021 12:00 CEST**)</span> </li> 
+<input class="filled-in" disabled="disabled" checked="checked" type="checkbox"><span><b>NEW! </b>Submission deadline: July <b>9</b>, 2021 (**Time zone: [Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe), meaning July 10, 2021 12:00 CEST**)</span> </li> 
 
-<input class="filled-in" type="checkbox"><span>Notification to authors: September 3, 2021
+<input class="filled-in" disabled="disabled" checked="checked" type="checkbox"><span>Notification to authors: September 3, 2021
 </span></li> 
 
 <input class="filled-in" type="checkbox"><span>Camera-ready: September
