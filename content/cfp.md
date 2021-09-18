@@ -3,6 +3,8 @@ title: "Call for Papers"
 date: 2019-12-15T11:11:58+01:00
 ---
 
+<h3 class="center"><b><span style="text-align:center;"><a href="https://discourse.computational-humanities-research.org/t/chr2021-registration/874"><u>Registration</u></a> is now open</span></b></h3><br>
+
 In the arts and humanities, the use of computational, statistical, and mathematical
 approaches has considerably increased in recent years. This research is characterized by
 the use of formal methods and the construction of explicit, computational models. This
@@ -58,7 +60,7 @@ proceedings](http://ceur-ws.org/Vol-2723/).
 <input class="filled-in" disabled="disabled" checked="checked" type="checkbox"><span>Notification to authors: September 3, 2021
 </span></li> 
 
-<input class="filled-in" type="checkbox"><span>Camera-ready: September
+<input class="filled-in" checked="checked" disabled="disabled" type="checkbox"><span>Camera-ready: September
 17, 2021 </span></li>
 
 <input class="filled-in" type="checkbox"><span>Conference: November 17 - November 19, 2021
