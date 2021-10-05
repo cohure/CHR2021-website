@@ -10,7 +10,7 @@ date: 2021-02-19T15:59:28+01:00
 - Maud Ehrmann, École Polytechnique Fédérale de Lausanne
 - Folgert Karsdorp, Meertens Institute
 - Mike Kestermont, CLiPS
-- Enrique Manjavacas, Universiteit Antwerpen
+- Enrique Manjavacas, Leiden University
 - Barbara McGillivray, Alan Turing Institute/University of Cambridge
 - George Mikros, University of Athens
 - Adina Nerghes, Wageningen University & Research,
@@ -56,7 +56,7 @@ date: 2021-02-19T15:59:28+01:00
 - Ross Kristensen-McLachlan, Centre for Humanities Computing, Aarhus University
 - Cynthia Liem, Delft University of Technology
 - Cerstin Mahlow, ZHAW Zurich University of Applied Sciences
-- Enrique Manjavacas, Universiteit Antwerpen
+- Enrique Manjavacas, Leiden University
 - Barbara Mcgillivray, Alan Turing Institute/University of Cambridge
 - George Mikros, University of Athens
 - Jean-Philippe Moreux, Bibliothèque nationale de France
