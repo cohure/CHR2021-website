@@ -11,7 +11,7 @@ date: 2021-02-19T15:59:28+01:00
 - Folgert Karsdorp, Meertens Institute
 - Mike Kestermont, CLiPS
 - Enrique Manjavacas, Leiden University
-- Barbara McGillivray, Alan Turing Institute/University of Cambridge
+- Barbara McGillivray, King's College London and The Alan Turing Institute
 - George Mikros, University of Athens
 - Adina Nerghes, Wageningen University & Research,
 - Kristoffer Nielbo, University of Aarhus
@@ -57,7 +57,7 @@ date: 2021-02-19T15:59:28+01:00
 - Cynthia Liem, Delft University of Technology
 - Cerstin Mahlow, ZHAW Zurich University of Applied Sciences
 - Enrique Manjavacas, Leiden University
-- Barbara Mcgillivray, Alan Turing Institute/University of Cambridge
+- Barbara Mcgillivray, King's College London and The Alan Turing Institute
 - George Mikros, University of Athens
 - Jean-Philippe Moreux, Bibliothèque nationale de France
 - Fabian Moss, École Polytechnique Fédérale de Lausanne
